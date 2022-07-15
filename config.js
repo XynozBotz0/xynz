@@ -4,14 +4,14 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 858-2234-7348', 'Hyzer'],
-  ['+62 858-2234-7348'],
-  ['+62 858-2234-7348']
+  ['+62 838-3920-0413', 'Xynoz'],
+  ['+62 838-3920-0413'],
+  ['+62 838-3920-0413']
 ]
 
 
 
- // ['6285822347348', '6285822347348', '6285822347348']
+ // ['6283839200413', '6283839200413', '6283839200413']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
@@ -50,14 +50,14 @@ global.APIKeys = { // APIKey Here
 */
 
 // Sticker WM
-global.packname = `\t\t「 ArullOfc 」\n\t\t「 IG: sahrulwara_____ 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 XynozBOTZ 」\n\t\t「 IG : @- 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'ArullBotz'
+global.me = 'XynozBotz'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
